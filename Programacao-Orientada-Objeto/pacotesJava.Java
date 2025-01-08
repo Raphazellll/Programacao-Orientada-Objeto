@@ -64,9 +64,33 @@ public class pacotesJava {
         public class MinhaClasse {
         
         }
-     
+
+        para criar um package (pacote de pastas) no vscode, crie as pastas nessa ordem:
+        Package em sua essência nada mais é do que uma organização de pastas, para a organização do projeto. 
+        Para a criação dos pacotes basta ir criando as pastas uma dentro da outra exemplo: 
+        Crio a pasta br -> dentro dela crio a pasta com -> dentro da pasta com crio a pasta curso -> dentro a pasta model.
+
+        e quando for criar a classe dentro da pasta model a declaração package ficaria : br.com.curso.model
+
+        pode-se imporar uma classe de um pacote para outra classe diferente
+        usando um método import com o nome da pasta, precisa saber o nome da classe que queira mover.
+        exemplo: import br.com.curso.model.exame;
+
+    Por que é tão importante compreender de pacotes?
+        A linguagem JAVA é composta por milhares de classes internas, classes desenvolvidas em projetos disponíveis através de bibliotecas
+            e as classes do nosso projeto. Logo, existe uma enorme possibilidade da existência de classes de mesmo nome.
+        
+        É nesta hora, que nós desenvolvedores precismos detectar qual classe iremos importar em nosso projeto.
+
+        Um exemplo classo é a existência das classas java.sql.Date e java.util.date da propria linguagem, recomendo
+            você leitor pesquisar sobre a diferença das duas classes.
 
 
      */
 
+
+     
+    public static void main(String[] args) {
+        
+    }
 }
