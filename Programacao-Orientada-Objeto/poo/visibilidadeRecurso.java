@@ -1,3 +1,5 @@
+package poo;
+
 public class visibilidadeRecurso {
 
     /*
