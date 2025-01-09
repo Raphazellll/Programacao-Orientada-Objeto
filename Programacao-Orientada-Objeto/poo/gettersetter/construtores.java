@@ -20,6 +20,12 @@ public class construtores {
      * essenciais. Abaixo iremos ilustrar uma classe Pessoa onde a mesma
      * terá os atributos: Nome, CPF, Endereço.
      * 
+     * public Pessoa(String cpf, String nome) {
+     * this.cpf = cpf;
+     * this.nome = nome;
+     * }
+     * Pessoa marcos = new Pessoa("123", "Marcos");
+     * 
      * Método This.
      * 
      */
