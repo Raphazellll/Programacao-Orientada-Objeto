@@ -1,0 +1,63 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "computadorPedrinho",
+            "request": "launch",
+            "mainClass": "pilarespoo.msn.computadorPedrinho",
+            "projectName": "Programacao-Orientada-Objeto_1db731bf"
+        },
+        {
+            "type": "java",
+            "name": "computadorPedrinho",
+            "request": "launch",
+            "mainClass": "pilarespoo.computadorPedrinho",
+            "projectName": "Programacao-Orientada-Objeto_1db731bf"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Estabelecimento",
+            "request": "launch",
+            "mainClass": "Estabelecimento",
+            "projectName": "Programacao-Orientada-Objeto_1db731bf"
+        },
+        {
+            "type": "java",
+            "name": "SistemaCadastro",
+            "request": "launch",
+            "mainClass": "pessoas.SistemaCadastro",
+            "projectName": "Programacao-Orientada-Objeto_1db731bf"
+        },
+        {
+            "type": "java",
+            "name": "PooJava",
+            "request": "launch",
+            "mainClass": "poo.PooJava",
+            "projectName": "Programacao-Orientada-Objeto_1db731bf"
+        },
+        {
+            "type": "java",
+            "name": "visibilidadeRecurso",
+            "request": "launch",
+            "mainClass": "poo.visibilidadeRecurso",
+            "projectName": "Programacao-Orientada-Objeto_1db731bf"
+        },
+        {
+            "type": "java",
+            "name": "sistemaIbge",
+            "request": "launch",
+            "mainClass": "tiposenum.sistemaIbge",
+            "projectName": "Programacao-Orientada-Objeto_1db731bf"
+        }
+    ]
+}
