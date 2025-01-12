@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForComScanner",
+            "request": "launch",
+            "mainClass": "ForComScanner",
+            "projectName": "Programacao-Orientada-Objeto_497c06f8"
+        },
+        {
+            "type": "java",
+            "name": "treinandoIf",
+            "request": "launch",
+            "mainClass": "treinandoIf",
+            "projectName": "Programacao-Orientada-Objeto_497c06f8"
+        },
+        {
+            "type": "java",
+            "name": "treinandoFor",
+            "request": "launch",
+            "mainClass": "treinandoFor",
+            "projectName": "Programacao-Orientada-Objeto_497c06f8"
+        },
+        {
+            "type": "java",
+            "name": "testesPrograma",
+            "request": "launch",
+            "mainClass": "testesPrograma",
+            "projectName": "Programacao-Orientada-Objeto_497c06f8"
+        },
+        {
+            "type": "java",
             "name": "computadorPedrinho",
             "request": "launch",
             "mainClass": "pilarespoo.msn.computadorPedrinho",
