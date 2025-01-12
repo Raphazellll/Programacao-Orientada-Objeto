@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "treinandoTryCatch",
+            "request": "launch",
+            "mainClass": "treinandoTryCatch",
+            "projectName": "Programacao-Orientada-Objeto_497c06f8"
+        },
+        {
+            "type": "java",
             "name": "ForComScanner",
             "request": "launch",
             "mainClass": "ForComScanner",
