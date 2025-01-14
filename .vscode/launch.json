@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "treinandoArrays",
+            "request": "launch",
+            "mainClass": "treinandoArrays",
+            "projectName": "Programacao-Orientada-Objeto_497c06f8"
+        },
+        {
+            "type": "java",
+            "name": "treinandoContinue",
+            "request": "launch",
+            "mainClass": "treinandoContinue",
+            "projectName": "Programacao-Orientada-Objeto_497c06f8"
+        },
+        {
+            "type": "java",
+            "name": "treinandoBreakContinue",
+            "request": "launch",
+            "mainClass": "treinandoBreakContinue",
+            "projectName": "Programacao-Orientada-Objeto_497c06f8"
+        },
+        {
+            "type": "java",
             "name": "treinandoTryCatch",
             "request": "launch",
             "mainClass": "treinandoTryCatch",
